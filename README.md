@@ -34,7 +34,8 @@ flutter run
 Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss what you would like to change.
 
-Screens
+
+
 ![Captura de tela 2024-06-21 102308](https://github.com/matheusbeezerra/offline_registration_app/assets/77506878/e99b7434-5ac1-450a-8e4b-1d436af162b8)
 ![Captura de tela 2024-06-21 102330](https://github.com/matheusbeezerra/offline_registration_app/assets/77506878/edb45ec5-fa1f-46a4-82d7-cbd6bb4c27d0)
 ![Captura de tela 2024-06-21 102359](https://github.com/matheusbeezerra/offline_registration_app/assets/77506878/5fd36201-5cf6-4cf5-b056-d1bfc8b24735)
